@@ -3,6 +3,9 @@
   "version": "0.5.3",
   "description": "PeerJS server component",
   "main": "dist/src/index.js",
+  "engine": {
+    "node": "12.16.3"
+  },
   "bin": {
     "peerjs": "./bin/peerjs"
   },
