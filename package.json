@@ -4,7 +4,7 @@
   "description": "PeerJS server component",
   "main": "dist/src/index.js",
   "engine": {
-    "node": "12.16.3"
+    "node": "12.16.x"
   },
   "bin": {
     "peerjs": "./bin/peerjs"
